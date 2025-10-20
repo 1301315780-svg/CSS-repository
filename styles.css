@@ -9,5 +9,30 @@ h1 {
 }
 /* Start here by styling the main div section */
 .main {
+    background-color: goldenrod;
+    border-radius: 10px;
+    width: 40%;
+    padding: 10%;
+    font-size: xx-large;
+    margin: 17%;
+    border: dotted  rgb(255, 115, 0) 20px;
+
     
+}
+
+.square {
+    padding: 13%;
+    
+    
+}
+.square:hover {
+    background-color: bisque;
+    margin-right: 3px;
+    padding: 1%;
+
+}
+
+#s9 :active {
+    background-color: chocolate;
+
 }
